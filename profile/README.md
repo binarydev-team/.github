@@ -1,7 +1,7 @@
 # BinaryDev
 
-BinaryDev is a development-focused organization creating clean and efficient software.  
-Our main project is **EasyTask**, a modern, improved remake of traditional task managers, built to be faster, clearer, and more reliable.
+BinaryDev is a development-focused organization creating clean, efficient, and reliable software.  
+We focus on building tools that improve workflows without unnecessary complexity.
 
 ---
 
